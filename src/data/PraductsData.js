@@ -5,3 +5,4 @@ const myProducts = [
         price:"137.00"
     }
 ]
+export default myProducts
